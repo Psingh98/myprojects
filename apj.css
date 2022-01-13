@@ -1,0 +1,57 @@
+body{
+     background-color: rgb(198, 198, 212);
+}
+.container-fluid{
+
+    background-color: rgb(198, 198, 212);
+
+    
+}
+
+.container{
+
+     text-align: center;
+     background-color: white;
+     
+}
+
+.container1{
+
+     padding-left: 80px;
+     padding-right: 20px;
+     background-color: rgb(236, 145, 145);
+}
+
+.itsnav{
+
+     
+     text-align: center;
+}
+
+h2{
+       color: blue;
+       margin-left: 20vh;
+       margin-right: 20vh;
+}
+
+.imp{
+
+      color: blue;
+}
+
+.list{
+
+      color: blue;
+}
+
+.last{
+     
+     text-align: center;
+     margin: 10vh;
+     
+}
+.chotu{
+          margin: 10vh;
+          
+}
+
