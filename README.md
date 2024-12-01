@@ -1,5 +1,4 @@
 Hi, I'm parul Singh.
-A to be a full-stack developer.
 And here is all my projects.
 
 # Project-1  Change the color of background.
